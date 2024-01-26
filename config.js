@@ -12,13 +12,13 @@ const limit = {
 module.exports = {
   sessionName: 'session',
   prefixs: ['!', '#', '/', '.'],
-  owner: ['6285236226786'],
+  owner: ['628981574999'],
   apis: {
     sazumiviki: {
       endpoint: "https://skizo.tech",
-      apikey: "YOUR_SKIZO_KEY",
+      apikey: "njbot",
       skizo: {
-        key: "YOUR_SKIZO_KEY",
+        key: "njbot",
       },
     }
   },
